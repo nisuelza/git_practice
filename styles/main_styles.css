@@ -2,3 +2,8 @@ body {
     background-color: bisque;
     color: darkmagenta;
 }
+
+footer {
+    font-size: small;
+    color: gray;
+}
