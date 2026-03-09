@@ -1,14 +1,25 @@
-body {
+body
+{
     background-color: bisque;
     color: darkmagenta;
 }
 
-footer {
+footer
+{
     font-size: small;
     color: gray;
 }
 
-h2 {
+
+h2
+{
     color: navy;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+li
+{
+    color: brown;
+
 }
